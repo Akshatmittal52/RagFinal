@@ -77,7 +77,7 @@ def setup_streamlit_page():
     st.sidebar.title("Document Management")
     st.sidebar.text("You provided the PDF file during development.")
     if "assistant" not in st.session_state:
-        pdf_file_path = "D:/LOCAL RAG5/fimmtech_com (8).pdf"  # Provide the path to your PDF file here
+        pdf_file_path = "fimmtech_com (8).pdf"  # Provide the path to your PDF file here
         st.session_state["assistant"] = ChatPDFAssistant(pdf_file_path)
 def display_chat_interface():
     st.subheader("Local Chatbot")
