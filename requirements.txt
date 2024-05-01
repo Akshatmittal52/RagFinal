@@ -3,3 +3,5 @@ streamlit
 chromadb
 ollama
 pypdf
+langchain
+langchain_community
