@@ -5,3 +5,4 @@ ollama
 pypdf
 langchain
 langchain_community
+fastembed
