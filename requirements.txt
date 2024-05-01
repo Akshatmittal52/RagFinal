@@ -1,0 +1,5 @@
+streamlit_chat
+streamlit
+chromadb
+ollama
+pypdf
