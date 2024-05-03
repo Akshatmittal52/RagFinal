@@ -1,6 +1,6 @@
 streamlit_chat
 streamlit
-chromadb
+chromadb==0.3.29
 ollama
 pypdf
 langchain
